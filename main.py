@@ -52,3 +52,4 @@ while GAME:
             GAME = False
 
 screen.exitonclick()
+
